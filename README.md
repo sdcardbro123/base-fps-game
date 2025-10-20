@@ -101,8 +101,7 @@ If you want to see any of these features prioritized, open an issue or submit a 
 ---
 
 ## License
-This repository does not contain a license file by default. Add a LICENSE file (MIT, Apache-2.0, etc.) to define reuse terms.
-
+MIT LICENSE
 ---
 
 ## Contact
